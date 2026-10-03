@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Personal AI-assistant instructions (kept local)
+CLAUDE.md
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Notebooks
+.ipynb_checkpoints/
+
